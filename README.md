@@ -16,17 +16,19 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6c870a4e-9cee-4ca1-b281-75bde5e5eba6/deploy-status)](https://app.netlify.com/sites/404-not-found-903ea1/deploys)
+
 ## Overview
 
 Visit [https://404-not-found-903ea1.netlify.app/](https://404-not-found-903ea1.netlify.app/).
 
 Desktop
 
-![screenshot](./screenshot-desktop.png)
+![screenshot](./doc-images/screenshot-desktop.png)
 
 Mobile
 
-![screenshot](./screenshot-mobile.png)
+![screenshot](./doc-images/screenshot-mobile.png)
 
 ## Features
 
